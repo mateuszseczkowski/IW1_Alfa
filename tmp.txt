@@ -1,0 +1,4 @@
+1. Aktorów
+2. Wymagania u¿ytkownika
+3. Identyfikacja przypadków biznesowych
+
