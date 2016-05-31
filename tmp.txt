@@ -2,3 +2,6 @@
 2. Wymagania u¿ytkownika
 3. Identyfikacja przypadków biznesowych
 
+1. Aktorzy
+2. Przypadki u¿ycia
+3. Diagram UML
